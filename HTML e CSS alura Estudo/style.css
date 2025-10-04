@@ -6,6 +6,7 @@
 
 body {
     height: 100vh;
+    box-sizing: border-box;
 background-color:#000000;
 color: #F6F6F6;
 }
@@ -16,4 +17,9 @@ color: #F6F6F6;
 
 .paragrafo-destaque{
     color: purple;
+}
+
+.apresentacao {
+    display: flex;
+    align-items: center;
 }
