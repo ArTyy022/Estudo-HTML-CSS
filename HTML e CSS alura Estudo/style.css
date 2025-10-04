@@ -41,3 +41,12 @@ color: #F6F6F6;
     font-size: 24;
     font-family: "Montserrat", sans-serif;
 }
+
+.apresentacao__links {
+display: flex;
+justify-content: space-between;
+}
+
+.apresentacao__links__link {
+    background-color: #22d4fd;
+}
